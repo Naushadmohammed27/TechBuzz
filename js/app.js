@@ -1,7 +1,7 @@
 /* ===========================
    NAVBAR PROFILE + SEARCH LOGIC
 =========================== */
-
+//test
 // Toggle profile dropdown
 let profile = document.querySelector('.nav .flex .profile');
 let search = document.querySelector('.nav .flex .search-form');
