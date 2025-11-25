@@ -1,0 +1,19 @@
+a{
+  background-color: #1f2641;
+   border-radius: 10px;
+}
+.nav .flex .logo {
+   font-family: 'Cookie', cursive;
+   font-size: 2rem;
+   color: var(--color-white);
+   background-color: #e5e1da;
+
+}
+.navmenu a {
+   font-weight: bold;
+   font-size: 17px;
+   color: var(--color-white);
+   transition: var(--transition);
+   display: inline-block;
+   background-color: #e5e1da;
+}

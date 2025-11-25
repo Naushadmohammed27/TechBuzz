@@ -1,0 +1,14 @@
+.btnn {
+   margin-top: 4rem;
+   border-radius: 10px;
+   background-color: #5042f7;
+}
+
+.side-bar .profile .btn{
+   background-color: #6542f7;
+   border-radius: 10px;
+}
+a{
+  background-color: rgb(229, 225, 218);
+   border-radius: 10px;
+}
